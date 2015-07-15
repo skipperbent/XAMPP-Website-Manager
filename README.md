@@ -1,5 +1,7 @@
 ### Description
-Virtual Website Manager Windows application for XAMPP (aka. XAMPP Vhost Manager). Features include auto-restart, over the air updates, multi language among other stuff.
+Website Manager Windows application for XAMPP (aka. XAMPP Vhost Manager) that automaticially setup vhosts on Apache - and configures the Windows hosts file to work with the websites. 
+
+Features include auto-restart, over the air updates, multi language among other stuff.
 
 Languages include:
 - English
