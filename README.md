@@ -6,7 +6,7 @@ Website Manager Windows application for XAMPP (aka. XAMPP Vhost Manager) that au
 
 Features include start/restart of servers, auto-restart, over the air updates, multi languages, quick access to log-files/configuration through tray icon among other stuff.
 
-**PRESS ALT WHEN APPLICATION IS RUNNING TO ACCESS THE TOOLBAR**
+**PRESS THE "ALT" KEY WHEN APPLICATION IS RUNNING TO ACCESS THE TOOLBAR**
 
 Languages include:
 - English
