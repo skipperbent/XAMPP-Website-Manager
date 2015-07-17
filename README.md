@@ -15,4 +15,8 @@ Languages include:
 - Norsk
 
 ### Downloads
-https://github.com/skipperbent/XAMPP-Website-Manager/raw/master/XAMPPWebsiteManager.zip
+http://webservice.pecee.dk/downloads/XAMPPWebsiteManager.zip
+
+## Bugs
+Please report any bugs you might experience here:
+https://github.com/skipperbent/XAMPP-Website-Manager/issues
