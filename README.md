@@ -1,4 +1,6 @@
-![Image of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot.png?raw=true)
+![Image 1 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_1.png?raw=true)
+![Image 2 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_2.png?raw=true)
+![Image 3 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_3.png?raw=true)
 
 ### Description
 Website Manager Windows application for XAMPP (aka. XAMPP Vhost Manager) that automaticially configures Apaches httpd-vhosts.conf - and configures the Windows hosts file to work with the websites created within the application. This is the complete replacement for the built in XAMPP Control Panel - with this tool you can manage all your vhosts/websites from anywhere.
