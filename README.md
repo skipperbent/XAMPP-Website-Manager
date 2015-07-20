@@ -15,21 +15,20 @@ Website Manager Windows application for XAMPP (aka. XAMPP Vhost Manager) that au
 - You can create selfsigned SSL certificates or choose your own, directly from within the app.
 - Other stuff.
 
-### Requirements
-.NET Framework 4.0 Client Profile
-[Download from Microsoft](http://www.microsoft.com/en-us/download/details.aspx?id=24872)
-
-**PRESS THE "ALT" KEY WHEN APPLICATION IS RUNNING TO ACCESS THE TOOLBAR**
-
-Languages include:
+### Supported languages
 - English
 - Svenska
 - Dansk
 - Norsk
 
+**PRESS THE "ALT" KEY WHEN APPLICATION IS RUNNING TO ACCESS THE TOOLBAR**
+
+### Requirements
+[.NET Framework 4.0 Client Profile](http://www.microsoft.com/en-us/download/details.aspx?id=24872)
+
 ### Latest version
 http://webservice.pecee.dk/downloads/XAMPPWebsiteManager.zip
 
-## Bugs
+### Bugs
 Please report any bugs you might experience here:
 https://github.com/skipperbent/XAMPP-Website-Manager/issues
