@@ -6,14 +6,15 @@
 Website Manager Windows application for XAMPP (aka. XAMPP Vhost Manager) that automaticially configures Apaches httpd-vhosts.conf - and configures the Windows hosts file to work with the websites created within the application. This is the complete replacement for the built in XAMPP Control Panel - with this tool you can manage all your vhosts/websites from anywhere.
 
 ### Features include
+- Multiple PHP versions running on each site.
+- You can create selfsigned SSL certificates or choose your own, directly from within the app.
+- Autostart servers and/or program when Windows starts.
 - Start/restart of servers
 - Auto-restart
-- Multiple PHP versions running on each site.
 - Over the air updates
 - Multi languages
 - Quick access to log-files/configuration through tray icon 
 - SSL support for websites
-- You can create selfsigned SSL certificates or choose your own, directly from within the app.
 - Other stuff.
 
 ### Supported languages
