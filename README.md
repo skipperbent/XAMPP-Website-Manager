@@ -8,6 +8,7 @@ Website Manager Windows application for XAMPP (aka. XAMPP Vhost Manager) that au
 ### Features include
 - Start/restart of servers
 - Auto-restart
+- Multiple PHP versions running on each site.
 - Over the air updates
 - Multi languages
 - Quick access to log-files/configuration through tray icon 
