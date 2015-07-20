@@ -17,8 +17,7 @@ Website Manager Windows application for XAMPP (aka. XAMPP Vhost Manager) that au
 
 ### Requirements
 .NET Framework 4.0 Client Profile
-Download:
-http://www.microsoft.com/en-us/download/details.aspx?id=24872
+[Download from Microsoft](http://www.microsoft.com/en-us/download/details.aspx?id=24872)
 
 **PRESS THE "ALT" KEY WHEN APPLICATION IS RUNNING TO ACCESS THE TOOLBAR**
 
