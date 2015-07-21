@@ -1,6 +1,7 @@
 ![Image 1 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_1.png?raw=true)
 ![Image 2 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_2.png?raw=true)
 ![Image 3 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_3.png?raw=true)
+![Image 3 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_4.png?raw=true)
 
 ### Description
 Website Manager Windows application for XAMPP (aka. XAMPP Vhost Manager) that automaticially configures Apaches httpd-vhosts.conf - and configures the Windows hosts file to work with the websites created within the application. This is the complete replacement for the built in XAMPP Control Panel - with this tool you can manage all your vhosts/websites from anywhere.
@@ -8,13 +9,14 @@ Website Manager Windows application for XAMPP (aka. XAMPP Vhost Manager) that au
 ### Features include
 - Multiple PHP versions running on each site.
 - You can create selfsigned SSL certificates or choose your own, directly from within the app.
+- SSL/https support for websites
+- Create multiple aliases for your websites.
 - Autostart servers and/or program when Windows starts.
 - Start/restart of servers
 - Auto-restart
 - Over the air updates
 - Multi languages
-- Quick access to log-files/configuration through tray icon 
-- SSL support for websites
+- Quick access to log-files/configuration through tray icon
 - Other stuff.
 
 ### Supported languages
@@ -33,4 +35,5 @@ http://webservice.pecee.dk/downloads/XAMPPWebsiteManager.zip
 
 ### Bugs
 Please report any bugs you might experience here:
+
 https://github.com/skipperbent/XAMPP-Website-Manager/issues
