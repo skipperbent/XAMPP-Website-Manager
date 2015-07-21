@@ -1,7 +1,9 @@
 ![Image 1 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_1.png?raw=true)
 ![Image 2 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_2.png?raw=true)
 ![Image 3 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_3.png?raw=true)
-![Image 3 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_4.png?raw=true)
+![Image 4 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_4.png?raw=true)
+![Image 5 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_5.png?raw=true)
+![Image 6 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_6.png?raw=true)
 
 ### Description
 Website Manager Windows application for XAMPP (aka. XAMPP Vhost Manager) that automaticially configures Apaches httpd-vhosts.conf and other configuration. It sets up all your websites and configures the Windows hosts file to work with the websites created within the application. This is the complete replacement for the built in XAMPP Control Panel, with even more features like running multiple PHP versions on different sites. With this tool you can manage all your vhosts/websites from anywhere.
@@ -23,7 +25,8 @@ Website Manager Windows application for XAMPP (aka. XAMPP Vhost Manager) that au
 - Auto-restart
 - Over the air updates
 - Multi languages
-- Quick access to log-files/configuration through tray icon
+- Quick access to log-files/configuration through tray icon.
+- Log viewer that shows changes to log-files in realtime.
 - Other stuff.
 
 ### Supported languages
