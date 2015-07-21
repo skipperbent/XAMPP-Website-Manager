@@ -4,7 +4,7 @@
 ![Image 3 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_4.png?raw=true)
 
 ### Description
-Website Manager Windows application for XAMPP (aka. XAMPP Vhost Manager) that automaticially configures Apaches httpd-vhosts.conf - and configures the Windows hosts file to work with the websites created within the application. This is the complete replacement for the built in XAMPP Control Panel - with this tool you can manage all your vhosts/websites from anywhere.
+Website Manager Windows application for XAMPP (aka. XAMPP Vhost Manager) that automaticially configures Apaches httpd-vhosts.conf and other configuration. It sets up all your websites and configures the Windows hosts file to work with the websites created within the application. This is the complete replacement for the built in XAMPP Control Panel, with even more features like running multiple PHP versions on different sites. With this tool you can manage all your vhosts/websites from anywhere.
 
 ##### Comes bundled with multiple PHP versions (it will not change or touch the default PHP version in XAMPP)
 - PHP 5.4.4
