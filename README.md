@@ -4,6 +4,7 @@
 ![Image 4 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_4.png?raw=true)
 ![Image 5 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_5.png?raw=true)
 ![Image 6 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_6.png?raw=true)
+![Image 7 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_7.png?raw=true)
 
 ### Description
 Website Manager Windows application for XAMPP (aka. XAMPP Vhost Manager) that automaticially configures Apaches httpd-vhosts.conf and other configuration. It sets up all your websites and configures the Windows hosts file to work with the websites created within the application. This is the complete replacement for the built in XAMPP Control Panel, with even more features like running multiple PHP versions on different sites. With this tool you can manage all your vhosts/websites from anywhere.
@@ -15,6 +16,7 @@ Website Manager Windows application for XAMPP (aka. XAMPP Vhost Manager) that au
 - PHP 7.0.0 beta 1
 
 ### Features include
+- Enable FTP server for each for your sites.
 - Multiple PHP versions running on each site.
 - You can create selfsigned SSL certificates or choose your own, directly from within the app.
 - SSL/https support for websites
@@ -23,10 +25,11 @@ Website Manager Windows application for XAMPP (aka. XAMPP Vhost Manager) that au
 - Autostart servers and/or program when Windows starts.
 - Start/restart of servers
 - Auto-restart
-- Over the air updates
 - Multi languages
 - Quick access to log-files/configuration through tray icon.
 - Log viewer that shows changes to log-files in realtime.
+- Easy configurator for PHP and MySQL.
+- Over the air updates
 - Other stuff.
 
 ### Supported languages
