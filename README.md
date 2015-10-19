@@ -5,23 +5,37 @@
 ![Image 5 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_5.png?raw=true)
 ![Image 6 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_6.png?raw=true)
 ![Image 7 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_7.png?raw=true)
+![Image 8 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_8.png?raw=true)
+![Image 9 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_9.png?raw=true)
+![Image 10 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_10.png?raw=true)
+![Image 11 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_11.png?raw=true)
+![Image 12 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_12.png?raw=true)
 
 ### Description
-Website Manager Windows application for XAMPP (aka. XAMPP Vhost Manager or XWM) that automaticially configures Apaches httpd-vhosts.conf and other configuration. It sets up all your websites and configures the Windows hosts file to work with the websites created within the application. This is the complete replacement for the built in XAMPP Control Panel, with even more features like running multiple PHP versions on different sites. With this tool you can manage all your vhosts/websites from anywhere.
+XAMPP Website Manager Windows application (aka. XAMPP Vhost Manager or XWM) is a Windows desktop application that 
+automaticially configures Apaches httpd-vhosts.conf and other configuration. 
+
+It set's up all your websites and configures the webserver and sets up the Windows hosts file to work with the websites 
+created within the application. 
+
+This is the complete replacement for the built in XAMPP Control Panel, with even more features like running multiple 
+PHP versions on different sites. With this tool you can manage all your vhosts/websites from anywhere.
+
+You can even enable FTP access to each of the websites, so you can access your source-code from everywhere.
 
 ##### Comes bundled with multiple PHP versions (it will not change or touch the default PHP version in XAMPP)
 - PHP 5.4.4
 - PHP 5.5.2
 - PHP 5.6.1
-- PHP 7.0.0 beta 1
+- PHP 7.0.0 alpha 1
 
 ### Features include
 - Enable FTP server for each for your sites.
-- Multiple PHP versions running on each site.
+- Multiple PHP instances for each of your sites.
 - You can create selfsigned SSL certificates or choose your own, directly from within the app.
 - SSL/https support for websites
 - Create multiple aliases for your websites.
-- Custom port
+- Custom ports.
 - Autostart servers and/or program when Windows starts.
 - Start/restart of servers
 - Auto-restart
@@ -30,6 +44,7 @@ Website Manager Windows application for XAMPP (aka. XAMPP Vhost Manager or XWM) 
 - Log viewer that shows changes to log-files in realtime.
 - Easy configurator for PHP and MySQL.
 - Over the air updates
+- Change MySQL password on the fly.
 - Other stuff.
 
 ### Supported languages
