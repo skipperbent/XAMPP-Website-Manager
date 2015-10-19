@@ -9,7 +9,6 @@
 ![Image 9 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_9.png?raw=true)
 ![Image 10 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_10.png?raw=true)
 ![Image 11 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_11.png?raw=true)
-![Image 12 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_12.png?raw=true)
 
 ### Description
 XAMPP Website Manager Windows application (aka. XAMPP Vhost Manager or XWM) is a Windows desktop application that 
