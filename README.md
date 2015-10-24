@@ -11,11 +11,9 @@
 ![Image 11 of XAMPP Website Manager](https://github.com/skipperbent/XAMPP-Website-Manager/blob/master/screenshot_11.png?raw=true)
 
 ### Description
-XAMPP Website Manager Windows application (aka. XAMPP Vhost Manager or XWM) is a Windows desktop application that 
-automaticially configures Apaches httpd-vhosts.conf and other configuration. 
+XAMPP Website Manager Windows application (aka. XWM) is a Windows desktop application that automaticially configures XAMPP configuration for both Apache, MySQL and more. 
 
-It set's up all your websites and configures the webserver and sets up the Windows hosts file to work with the websites 
-created within the application. 
+With just a few clicks, it's easier than ever to set up multiple websites, change your MySQL root password or managing multiple PHP version for each of your site. 
 
 This is the complete replacement for the built in XAMPP Control Panel, with even more features like running multiple 
 PHP versions on different sites. With this tool you can manage all your vhosts/websites from anywhere.
